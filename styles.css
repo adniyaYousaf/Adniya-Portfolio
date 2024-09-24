@@ -699,9 +699,7 @@ main {
     gap: 5rem;
     flex-direction: column;
   }
-  .form {
-    width: 100%;
-  }
+  
 }
 @media (min-width: 900px) and (max-width: 1225px) {
   body {
