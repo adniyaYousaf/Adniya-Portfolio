@@ -110,7 +110,6 @@ body {
 }
 
 .nav {
-  position: fixed;
   height: 6rem;
   min-width: 100%;
   left: 0;
