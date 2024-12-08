@@ -16,6 +16,7 @@
 .bg3 {
   background: var(--primary-orange);
 }
+
 .color1 {
   color: var(--primary-orange);
 }
@@ -716,10 +717,11 @@ main {
   .form {
     width: 100%;
   }
-     video {
-       width: 100%;
-       height: auto;
-     }
+        .love-me-tender-video {
+          width: 98%;
+          height: auto;
+        }
+
 }
 
 /* Responsiveness for small screens */
@@ -728,6 +730,7 @@ main {
     width: 100vw;
     padding: 1rem;
   }
+
 
   main {
     margin: 0;
@@ -800,8 +803,10 @@ main {
     gap: 5rem;
     flex-direction: column;
   }
-
-
+    .love-me-tender-video {
+      width: 98%;
+      height: auto;
+    }
 }
 
 @media (min-width: 900px) and (max-width: 1225px) {
